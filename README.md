@@ -29,16 +29,3 @@ NU Launcher is designed to eliminate digital clutter and reduce mindless phone s
 - **Target SDK**: Android 14+ (API 34/35)
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Android Studio Ladybug (2024.2+) or newer
-- JDK 17 or JDK 21
-- Android device or emulator running Android 8.0 (API 26) or higher
-
-### Build & Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/al-qerzity/NU-Launcher-by-AQ.git
-   cd NU-Launcher-by-AQ
