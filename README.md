@@ -40,5 +40,5 @@ NU Launcher is designed to eliminate digital clutter and reduce mindless phone s
 ### Build & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nu-launcher.git
-   cd nu-launcher
+   git clone https://github.com/al-qerzity/NU-Launcher-by-AQ.git
+   cd NU-Launcher-by-AQ
