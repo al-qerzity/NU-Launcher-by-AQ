@@ -1,0 +1,6 @@
+{
+  "name": "NU Launcher by AQ",
+  "description": "Distraction-free minimalist Android launcher with liquid glassmorphism, essential-only apps (Phone, Messaging, WhatsApp), system gestures, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

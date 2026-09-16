@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NU Launcher by AQ</string>
+    <string name="device_admin_label">NU Launcher Protection</string>
+    <string name="device_admin_description">Protects NU Launcher against uninstallation. While active, the app cannot be uninstalled without deactivating administration or factory resetting the device.</string>
+</resources>
